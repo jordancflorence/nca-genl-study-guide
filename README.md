@@ -4,9 +4,7 @@
 > From Zero to Certified — Beginner-Friendly, Exam-Optimized, Strategy-Ready.  
 > Based on the official NVIDIA NCA-GENL Study Guide (Jan 2025).
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Exam](https://img.shields.io/badge/exam-NCA--GENL-76b900)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[📋 Official NCA-GENL Exam Page](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/)
 
 ---
 
